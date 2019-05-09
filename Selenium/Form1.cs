@@ -24,6 +24,7 @@ namespace Selenium {
             var chromeDriverService = ChromeDriverService.CreateDefaultService();
             chromeDriverService.HideCommandPromptWindow = true;
             ChromeOptions options = new ChromeOptions();
+
             var perfLogPrefs = new ChromePerformanceLoggingPreferences();
             var tracingCategories = "toplevel,disabled-by-default-devtools.timeline.frame,blink.console,disabled-by-default-devtools.timeline,benchmark";
             perfLogPrefs.AddTracingCategories(new string[] { tracingCategories });
@@ -32,7 +33,7 @@ namespace Selenium {
              chromeDriver = new ChromeDriver(chromeDriverService, options);
             chromeDriver.Navigate().GoToUrl("https://www.facebook.com/");
             chromeDriver.FindElementByClassName("inputtext").Click();
-            
+            //get bz file
             var logs = chromeDriver.Manage().Logs.GetLog("performance");
             object s;
             File.WriteAllText("result/json.txt", "");
