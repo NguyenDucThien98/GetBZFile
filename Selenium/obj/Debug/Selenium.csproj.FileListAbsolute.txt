@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\Selenium.exe
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\Selenium.pdb
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\WebDriver.dll
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\WebDriver.xml
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.Form1.resources
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.Properties.Resources.resources
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.exe
+C:\Users\PC\source\repos\GetBZFile\Selenium\obj\Debug\Selenium.pdb
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\GetBZFile\Selenium\bin\Debug\Newtonsoft.Json.xml
